@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mehtacomputeracademy.github.io/sitemap.xml
